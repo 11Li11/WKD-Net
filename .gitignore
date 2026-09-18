@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+build/
+dist/
+*.egg-info/
+data/
+datasets/
+checkpoints/
+results/
+output/
+*.pth
+*.pt
+*.h5
+*.hdf5
+*.nc

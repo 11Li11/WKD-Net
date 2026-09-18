@@ -1,0 +1,8 @@
+torch==2.1.2
+torchvision==0.16.2
+timm==0.9.16
+einops>=0.7.0
+PyWavelets>=1.4.1
+fvcore>=0.1.5
+numpy>=1.24
+triton>=2.1.0; platform_system == "Linux"
